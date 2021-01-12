@@ -1,0 +1,51 @@
+#heading {
+    text-align: center;
+    color: crimson;
+
+}
+
+#content {
+
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+#child {
+
+    border: 1px solid black ;
+    text-align: center;
+}
+
+.list-group {
+    padding-left: 0;
+    margin-bottom: 20px;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+}
+
+.album {
+    margin-top: 13px;
+}
+
+.album h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.album img {
+    border-radius: 25px;
+    height: 200px;
+    width: 200px;
+}
+
+.album p {
+    margin-top: 10px;
+}
+
+.highlight {
+     display: inline-block;
+    background-color:yellow;
+}
